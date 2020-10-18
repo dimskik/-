@@ -1,3 +1,7 @@
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 # Education
 - 2008 – National Technical University of Athens, dep. of Electrical & Computer Engineering. Member of TEE (Technical Chamber of Greece).
 - 2000 – MSc in Microelectronics System Design at Brunel University, London. - The dissertation took place in Siemens ICM in Bocholt, Germany
