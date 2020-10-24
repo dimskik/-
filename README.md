@@ -1,5 +1,4 @@
-www.texnodaimon.gr 
-:grinning:
+
 
 ## Education
 Year | Institution
@@ -67,3 +66,6 @@ Year | Institution
 ## Personal Interests:
 - Agriculture, 
 - World History.
+
+www.texnodaimon.gr 
+:grinning:
