@@ -8,8 +8,8 @@ Year | Institution
 2000 | MSc in Microelectronics System Design at Brunel University, London
 1999 | BEng in Electrical and Electronics Engineering, Greenwich University, UK
 --------------------------------------------------------------------------------------------------
-# Professional Experience:
-## Free- Lancer/H&S engineer (Refinery, Heavy Industry, Constructions, etc) (2010 - )
+## Professional Experience:
+### Free- Lancer/H&S engineer (Refinery, Heavy Industry, Constructions, etc) (2010 - )
 - Risk Assessments and Incident Investigations
 - Evacuation plans and drills. 
 - Technical Trainings.
