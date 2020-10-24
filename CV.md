@@ -1,7 +1,6 @@
 
 
 ## Education
---------------------------------------------------------------------------------------------------
 Year | Institution
 ---- | -------------
 2008 | National Technical University of Athens, dep. of Electrical & Computer Engineering. Member of TEE (Technical Chamber of Greece)
@@ -9,7 +8,6 @@ Year | Institution
 1999 | BEng in Electrical and Electronics Engineering, Greenwich University, UK
 
 ## Professional Experience:
---------------------------------------------------------------------------------------------------
 ### Free- Lancer/H&S engineer (Refinery, Heavy Industry, Constructions, etc) (2010 - )
 - Risk Assessments and Incident Investigations
 - Evacuation plans and drills. 
@@ -59,16 +57,13 @@ Year | Institution
 - Certified Fire Man – Hellenic Fire Service.
 - H &S – ELINYAE 
 ## Scientific Interests:
---------------------------------------------------------------------------------------------------
 - Predictive maintenance,
 - Fire Safety, 
 - Precision Agriculture 
 ## Languages:
---------------------------------------------------------------------------------------------------
   - English (excellent), 
   - German (basic)
 ## Personal Interests:
---------------------------------------------------------------------------------------------------
 - Agriculture, 
 - World History.
 
