@@ -9,7 +9,7 @@ Year | Institution
 
 ## Professional Experience:
 ### Free- Lancer/H&S engineer (Refinery, Heavy Industry, Constructions, etc) (2010 - )
-- **Risk Assessments and Incident Investigations**
+- Risk Assessments and Incident Investigations**
 - Evacuation plans and drills. 
 - Technical Trainings.
 - Safety Co-ordination, Safety Tours and Audits
