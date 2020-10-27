@@ -3,9 +3,9 @@
 ## Education
 Year | Institution
 ---- | -------------
-2008 | National Technical University of Athens, dep. of Electrical & Computer Engineering. Member of TEE (Technical Chamber of Greece)
-2000 | MSc in Microelectronics System Design at Brunel University, London
-1999 | BEng in Electrical and Electronics Engineering, Greenwich University, UK
+**2008 | *National Technical University of Athens, dep. of Electrical & Computer Engineering. Member of TEE (Technical Chamber of Greece)***
+**2000 | *MSc in Microelectronics System Design at Brunel University, London***
+**1999 | *BEng in Electrical and Electronics Engineering, Greenwich University, UK***
 
 ## Professional Experience:
 ### Free- Lancer/H&S engineer (Refinery, Heavy Industry, Constructions, etc) (2010 - )
