@@ -1,4 +1,7 @@
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 
 ## Education
 Year | Institution
