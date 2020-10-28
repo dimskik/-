@@ -1,5 +1,5 @@
 
-![DimSkikos Foto](/image/skikos_foto_μικρή.jpg)
+<!---![DimSkikos Foto](/image/skikos_foto_μικρή.jpg)--->
 ![alt text](https://github.com/dimskik/CV/blob/main/image/skikos_foto_%CE%BC%CE%B9%CE%BA%CF%81%CE%AE.jpg)
 
 ## Education
