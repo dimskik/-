@@ -1,6 +1,6 @@
 
-![GitHub Logo](/image/skikos_foto_μικρή.jpg)
-
+![DimSkikos Foto](/image/skikos_foto_μικρή.jpg)
+![alt text](http:
 
 ## Education
 Year | Institution
