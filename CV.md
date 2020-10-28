@@ -1,6 +1,5 @@
 
 ![GitHub Logo](/image/skikos_foto_μικρή.jpg)
-Format: ![Alt Text](url)
 
 
 ## Education
